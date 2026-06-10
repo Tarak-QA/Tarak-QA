@@ -1,35 +1,83 @@
 # Hi, I'm Taraka Rama Rao 👋
 
-## QA Engineer
+## QA Engineer | Manual & Automation Testing
 
-QA Engineer with 3+ years of experience in Manual and Automation Testing.
+QA Engineer with 3+ years of experience in Manual and Automation Testing across E-Commerce, FinTech, Cybersecurity, and Legacy Management domains.
 
 ### Skills
 
-- Playwright
-- JavaScript
-- API Testing
-- Postman
-- SQL
-- Appium
-- Selenium
-- GitHub
-- Jira
+#### Automation Testing
 
-### Projects
+* Playwright
+* Appium
+* JavaScript
+* Page Object Model (POM)
 
-- Secure Media Vault Automation
-- My Life Book Automation
-- API Automation
-- Playwright Framework Development
+#### Manual Testing
+
+* Functional Testing
+* Integration Testing
+* Regression Testing
+* Smoke Testing
+* End-to-End Testing
+* Mobile Testing
+* User Acceptance Testing (UAT)
+
+#### API & Database Testing
+
+* Postman
+* REST APIs
+* SQL
+* MongoDB
+
+#### Tools
+
+* Jira
+* Git
+* GitHub
+* Allure Reports
+
+#### Methodologies
+
+* Agile Scrum
+* SDLC
+* STLC
+
+### Professional Experience
+
+**Miracle Software Systems**
+
+* E-Commerce Platform Testing
+* Salesforce CRM Integration Testing
+* Functional & Integration Testing
+
+**MittArv Technology**
+
+* FinTech & Digital Asset Management Platform
+* Cyber Scam Protection Platform
+* Digital Memorial & Legacy Platform
+* Web & Mobile Application Testing
+* Manual & Automation Testing
+
+### Featured Projects
+
+* Playwright Automation Framework
+* API Automation Testing
+* Mobile Automation Testing with Appium
+* Secure Media Vault Automation
+* End-to-End Test Automation
+* Allure Reporting Integration
 
 ### Currently Learning
 
-- CI/CD Integration
-- Advanced Playwright Framework Design
+* Advanced Playwright Framework Design
+* CI/CD Integration
+* Test Automation Best Practices
 
-### Contact
+### Connect With Me
 
-- Hyderabad, India
-- Mobile: 9618282463
-- LinkedIn: https://www.linkedin.com/in/tarakaramarao/
+📍 Hyderabad, India
+
+💼 LinkedIn: https://www.linkedin.com/in/tarakaramarao/
+
+📧 Email: tarakaramuinaganti@gmail.com
