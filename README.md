@@ -9,6 +9,7 @@ QA Engineer with 3+ years of experience in Manual and Automation Testing across 
 #### Automation Testing
 
 * Playwright
+* Selenium
 * Appium
 * JavaScript
 * Page Object Model (POM)
