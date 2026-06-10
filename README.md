@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Taraka Rama Rao 👋
 
-<!--
-**Tarak-QA/Tarak-QA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## QA Engineer
 
-Here are some ideas to get you started:
+QA Engineer with 3+ years of experience in Manual and Automation Testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+- Playwright
+- JavaScript
+- API Testing
+- Postman
+- SQL
+- Appium
+- Selenium
+- GitHub
+- Jira
+
+### Projects
+
+- Secure Media Vault Automation
+- My Life Book Automation
+- API Automation
+- Playwright Framework Development
+
+### Currently Learning
+
+- CI/CD Integration
+- Advanced Playwright Framework Design
+
+### Contact
+
+- Hyderabad, India
+- Mobile: 9618282463
+- LinkedIn: https://www.linkedin.com/in/tarakaramarao/
